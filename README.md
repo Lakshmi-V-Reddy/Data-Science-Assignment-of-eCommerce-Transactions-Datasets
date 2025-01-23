@@ -29,4 +29,5 @@ Analysis Performed:
 3.	Lookalike Modeling The Lookalike notebook is focused on identifying potential lookalike customers for targeted marketing campaigns. The model uses customer attributes to find similar profiles for creating highly targeted campaigns.
 
 Results and Conclusion:
+
 The findings from the analysis, including clustering results, insights from EDA, and potential marketing strategies based on lookalike analysis, are summarized in the respective notebooks and PDF reports.
